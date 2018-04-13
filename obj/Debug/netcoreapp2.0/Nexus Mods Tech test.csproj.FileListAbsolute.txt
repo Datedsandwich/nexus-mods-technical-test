@@ -1,0 +1,13 @@
+d:\Repos\Nexus Mods Tech test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+d:\Repos\Nexus Mods Tech test\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+d:\Repos\Nexus Mods Tech test\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+d:\Repos\Nexus Mods Tech test\bin\Debug\netcoreapp2.0\Nexus Mods Tech test.deps.json
+d:\Repos\Nexus Mods Tech test\bin\Debug\netcoreapp2.0\Nexus Mods Tech test.runtimeconfig.json
+d:\Repos\Nexus Mods Tech test\bin\Debug\netcoreapp2.0\Nexus Mods Tech test.runtimeconfig.dev.json
+d:\Repos\Nexus Mods Tech test\bin\Debug\netcoreapp2.0\Nexus Mods Tech test.dll
+d:\Repos\Nexus Mods Tech test\bin\Debug\netcoreapp2.0\Nexus Mods Tech test.pdb
+d:\Repos\Nexus Mods Tech test\obj\Debug\netcoreapp2.0\Nexus Mods Tech test.csproj.CoreCompileInputs.cache
+d:\Repos\Nexus Mods Tech test\obj\Debug\netcoreapp2.0\Nexus Mods Tech test.AssemblyInfoInputs.cache
+d:\Repos\Nexus Mods Tech test\obj\Debug\netcoreapp2.0\Nexus Mods Tech test.AssemblyInfo.cs
+d:\Repos\Nexus Mods Tech test\obj\Debug\netcoreapp2.0\Nexus Mods Tech test.dll
+d:\Repos\Nexus Mods Tech test\obj\Debug\netcoreapp2.0\Nexus Mods Tech test.pdb
